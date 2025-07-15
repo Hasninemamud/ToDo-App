@@ -26,7 +26,7 @@
   - Toggle task status.
   - Filter tasks by All, Completed, Incomplete, or Upcoming (due within 7 days).
   - Reorder tasks using drag-and-drop.
-  - User authentication (register, login, logout).
+  - JWT authentication (register, login, logout).
 
 ## Deployment
 - **Backend**: Deploy to Heroku or Render. Update `CORS_ALLOWED_ORIGINS` with the deployed frontend URL.
