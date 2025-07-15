@@ -3,7 +3,7 @@
 ## Setup
 
 ### Backend (Django)
-1. Clone the repository: `git clone <repo-url>`
+1. Clone the repository: `git clone https://github.com/Hasninemamud/ToDo-App.git`
 2. Navigate to `todo_api/`: `cd todo_api`
 3. Create a virtual environment: `python -m venv venv`
 4. Activate: `.\venv\Scripts\activate` (Windows)
