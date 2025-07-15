@@ -32,7 +32,14 @@
 - **Backend**: Deploy to Heroku or Render. Update `CORS_ALLOWED_ORIGINS` with the deployed frontend URL.
 - **Frontend**: Deploy to Netlify or Vercel. Run `npm run build` to generate the `dist/` folder and deploy it. Update API base URL in frontend to point to the deployed backend.
 
+## ToDo APP
 
+**Login** ![Login](images/login.png)
+**Signup** ![Signup](images/signup.png)
+**Tasks** ![Task List](images/tasks.png)
+**Add Task** ![Add Task](images/addTask.png)
+**Edit Task** ![Edit Task](images/EditTask.png)
+**Task Details** ![Task Details](images/task_details.png)
 
 
 # To-Do API Documentation
