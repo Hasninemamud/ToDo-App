@@ -40,11 +40,11 @@
 ## Base URL
 `http://localhost:8000/api/`
 
-##Interactive Swagger UI:  `http://localhost:8000/api/schema/swagger-ui/`
+- **Interactive Swagger UI**:  `http://localhost:8000/api/schema/swagger-ui/`
 
-##ReDoc: `http://localhost:8000/api/schema/redoc/`
+- **ReDoc**: `http://localhost:8000/api/schema/redoc/`
 
-##Raw Schema: `http://localhost:8000/api/schema/`
+- **Raw Schema**: `http://localhost:8000/api/schema/`
 
 
 
