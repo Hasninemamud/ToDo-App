@@ -40,7 +40,7 @@
 **Add Task** ![Add Task](images/addTask.png)
 **Edit Task** ![Edit Task](images/EditTask.png)
 **Task Details** ![Task Details](images/task_details.png)
-
+**Swagger-UI** ![Swagger-UI](images/swagger-ui.png)
 
 # To-Do API Documentation
 
